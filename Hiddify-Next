@@ -58,3 +58,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?mode=gun&security=none&encryption=none&type=grpc#%40BugFreeNet%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3373fe14-47b8-42e5-8a18-7ab3e0dd02b3@95.179.153.250:47221?security=reality&encryption=none&pbk=iwsj4xiBztuBQ3I1YsrBBUhnlu7mhhPFozP7bkgaal0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=47ff9b6c#%40BugFreeNet%20%F0%9F%87%B3%F0%9F%87%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?mode=gun&security=none&encryption=none&type=grpc#%40BugFreeNet%20%F0%9F%87%AB%F0%9F%87%AE
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA%3D%3D@185.126.239.231:20002#%40BugFreeNet%20%F0%9F%87%B7%F0%9F%87%BA
+ss://YWVzLTI1Ni1nY206MlVPTDhFU1MxMlgwSjMxUA%3D%3D@154.196.244.20:16010#%40BugFreeNet%20%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUFFmUXdvaGxBaXlEd2VIRFFrRFVP@77.239.122.34:46785#%40BugFreeNet%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#%40BugFreeNet%20%F0%9F%87%A9%F0%9F%87%AA
